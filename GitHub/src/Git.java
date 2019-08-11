@@ -6,7 +6,8 @@ public class Git {
 		int b = 10;
 		System.out.println(a+b);
 		
-		System.out.println("Hello Automation");
+		System.out.println("Hello updated");
+
 		
 	}
 
